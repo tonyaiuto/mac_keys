@@ -1,0 +1,22 @@
+
+# Put escape where god intended it, next to the 1.
+# For this keyboard, just swap escape and ~
+remap 0x700000029	0x700000035	# ESC -> `
+remap 0x700000035	0x700000029     # ` -> ESC
+
+remap	0x700000041	0x70000007F	# F8 -> Mute
+remap 	0x700000042	0x700000081	# F9 -> vol down
+remap	0x700000043	0x700000080	# F10 -> vol up
+
+
+remap 	0x700000065	0x700000066	# menu key in upper right -> power
+
+# print screen
+# 0x700000046
+# pause / break
+# 0x700000048
+
+# left windows
+# 0x700080000
+# right windows
+# 0x700800000
