@@ -15,6 +15,12 @@ Version 1.12
 https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf
 ```
 
+## How to use this on a mac
+
+- create a script of the hidutil commands
+- use automator to create an App to run the script
+- Set up that app to run at login.
+
 ## How to discover key codes
 
 - Use wireshark
