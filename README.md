@@ -37,10 +37,15 @@ Use `Mission Control` to map F4 to Mission Control and F3 to Application Windows
 
 ## How to remap arbitrary keys
 
+I want to fix my keyboard further.
+- The key to the left of the '1' should be escape.
+- F8, F9, F10 should be mute, volume down, volume up
+
+You can do that with hidutil. 
+
 - Create a list of remaps. See `goldtouch.txt` for an example.
 - Use `make_hidutil_command.py` to turn that into hidutil commands.
-  E.g.
-  ```
+```
 #!/bin/bash
 # This script should be executable
 # Use Automator to turn this into an action
