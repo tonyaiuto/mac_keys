@@ -3,7 +3,7 @@
 # For this keyboard, just swap escape and ~
 remap 0x700000029	0x700000035	# ESC -> `
 # this does not work
-# emap 0x700020035	0x700020035     # Shift ` -> ~
+# remap 0x700020035	0x700020035     # Shift ` -> ~
 remap 0x700000035	0x700000029     # ` -> ESC
 
 remap	0x700000041	0x70000007F	# F8 -> Mute
